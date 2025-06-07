@@ -1,0 +1,12 @@
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore node modules folder if you ever use npm packages
+node_modules/
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
